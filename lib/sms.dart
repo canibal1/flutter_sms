@@ -1,5 +1,5 @@
 /// An SMS library for flutter
-library sms;
+library sms_maintained;
 
 import 'dart:async';
 
